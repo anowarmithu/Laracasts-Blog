@@ -18,4 +18,6 @@ class PostController extends Controller {
         ]);
     }
 
+    //index, show, create, store, edit, update, destroy
+
 }

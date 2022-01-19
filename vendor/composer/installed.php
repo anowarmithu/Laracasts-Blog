@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'bb0c2d5a20ae26abb697f5ff1262e3d47c8eff1d',
+        'reference' => 'ac395dc9ee7579cd453af6dae00d498dd891cf72',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -409,7 +409,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'bb0c2d5a20ae26abb697f5ff1262e3d47c8eff1d',
+            'reference' => 'ac395dc9ee7579cd453af6dae00d498dd891cf72',
             'dev_requirement' => false,
         ),
         'laravel/sail' => array(
@@ -482,6 +482,15 @@
             'install_path' => __DIR__ . '/../league/mime-type-detection',
             'aliases' => array(),
             'reference' => 'b38b25d7b372e9fddb00335400467b223349fd7e',
+            'dev_requirement' => false,
+        ),
+        'mailchimp/marketing' => array(
+            'pretty_version' => '3.0.72',
+            'version' => '3.0.72.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../mailchimp/marketing',
+            'aliases' => array(),
+            'reference' => '9292392510d72d651c06113d28bb508d55fdbf07',
             'dev_requirement' => false,
         ),
         'mikey179/vfsstream' => array(
